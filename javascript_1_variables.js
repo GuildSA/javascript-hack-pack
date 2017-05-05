@@ -24,7 +24,7 @@ var health = 100, armor = 25, goldCoins = 10, rubies = 5;
 //------------------------------------------------------------------------------
 
 // Javascript gives us several built-in functions which we are designed to help
-//  us out. For example, we can use the console.log() function to print our data 
+// us out. For example, we can use the console.log() function to print our data 
 // to the console.
 
 var shopKeeperText = "Would you like to buy something for your adventure?";
